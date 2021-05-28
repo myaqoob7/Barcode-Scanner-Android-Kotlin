@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BarCodeScannerKotlin</string>
+    <string name="share">Share</string>
+    <string name="copy">Copy</string>
+    <string name="todo">TODO</string>
+    <string name="value">Value</string>
+    <string name="format">Format</string>
+    <string name="text">text</string>
+    <string name="search">Search</string>
+    <string name="translate">Translate</string>
+</resources>
